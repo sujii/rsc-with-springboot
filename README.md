@@ -1,2 +1,2 @@
 # rsc-with-springboot
-[TESTING] repo of ReactServerComponents sync with SpringBoot GraphQL output.
+TESTING: ReactServerComponents sync with SpringBoot output GraphQL.
