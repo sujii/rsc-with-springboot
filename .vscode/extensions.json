@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "vue.vscode-typescript-vue-plugin",
+    "antfu.iconify",
+    "antfu.unocss",
+    "antfu.vite",
+    "antfu.goto-alias",
+    "csstools.postcss",
+    "dbaeumer.vscode-eslint",
+    "vue.volar",
+    "imyangyong.fork",
+    "github.copilot"
+  ]
+}

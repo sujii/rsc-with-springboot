@@ -1,0 +1,69 @@
+{
+  "i18n-ally.localesPaths": [
+    "../packages/web/src/locals"
+  ],
+  "files.exclude": {
+		"out": false
+	},
+	"search.exclude": {
+		"out": true,
+		"server": true
+	},
+	"files.trimTrailingWhitespace": true,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+  "eslint.validate": ["javascript","typescript"],
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": false
+  },
+  "editor.formatOnSave": false,
+  "git.autofetch": true,
+  "cSpell.words": [
+    "acron",
+    "antfu",
+    "demi",
+    "deepmerge",
+    "esbuild",
+    "preact",
+    "fixpack",
+    "nums",
+    "fontface",
+    "hollowtree",
+    "iconify",
+    "intlify",
+    "libphonenumber",
+    "maint",
+    "materialdesignicons",
+    "lintfix",
+    "nprogress",
+    "nodenv",
+    "openapi",
+    "persistedstate",
+    "pinia",
+    "pnpm",
+    "preinstall",
+    "prefresh",
+    "readdirp",
+    "roboto",
+    "shiki",
+    "smoothscroll",
+    "stylelint",
+    "taze",
+    "tsdoc",
+    "typecheck",
+    "unocss",
+    "unplugin",
+    "uuidv4",
+    "Vite",
+    "vitejs",
+    "Vitesse",
+    "vitest",
+    "vuetify",
+    "vueuse",
+    "uuidv4",
+    "webfontloader",
+    "yarnworkspaces",
+    "zdchyt"
+  ]
+}
