@@ -139,5 +139,3 @@ packages/client/node_modules
 
 # nodenv
 !.node-version
-packages/next
-packages/api
